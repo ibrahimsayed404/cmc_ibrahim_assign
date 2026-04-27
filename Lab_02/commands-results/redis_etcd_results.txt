@@ -1,0 +1,1 @@
+﻿Paste actual terminal outputs for Redis/etcd commands here.

@@ -1,0 +1,7 @@
+﻿Redis commands run (sample):
+redis-cli INFO replication
+redis-cli ROLE
+
+etcd commands run (sample):
+etcdctl endpoint health
+etcdctl endpoint status --write-out=table

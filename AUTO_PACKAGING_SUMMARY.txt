@@ -1,0 +1,6 @@
+﻿Auto-packaging summary generated on 2026-04-27T09:03:41
+Lab 01: latency output files created
+Lab 02: docker + commands templates created
+Lab 03: app files + k8s templates created
+Lab 04: product-service and order-service starter files created
+Labs 01-05: screenshot placeholder notes created

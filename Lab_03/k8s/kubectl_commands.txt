@@ -1,0 +1,4 @@
+﻿kubectl get pods
+kubectl get services
+kubectl get deployments
+kubectl delete pod <pod-name>
