@@ -1,0 +1,21 @@
+﻿version: '3.9'
+services:
+  product-service:
+    build: ./product-service
+    ports:
+      - "3001:3001"
+    networks:
+      - lab4net
+
+  order-service:
+    build: ./order-service
+    ports:
+      - "3002:3002"
+    depends_on:
+      - product-service
+    networks:
+      - lab4net
+
+networks:
+  lab4net:
+    driver: bridge
