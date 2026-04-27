@@ -1,0 +1,13 @@
+﻿Submission: Labs 1-4 + Lecture 5
+
+Name: Ibrahim
+GitHub Repository URL:
+https://github.com/ibrahimsayed404/cmc_ibrahim_assign
+
+Attached Files:
+1) cmc_ibrahim_assign.zip (organized Lab_01 to Lab_05_event_pipeline)
+2) Lecture 5 report (Word/PDF) with required screenshots and reflection answers
+
+Notes:
+- Repository is organized by lab folders.
+- Screenshots, outputs, code files, and reflections are included in their corresponding lab directories.
